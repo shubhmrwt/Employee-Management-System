@@ -55,7 +55,7 @@
       <h2>Screenshots</h2>
       <div class="screenshot-section">
         <div class="screenshot">
-          <img src="splash.png" alt="Splash Screen">
+          <img src="icons/splash.png" alt="Splash Screen">
           <p>Splash Screen</p>
         </div>
         <div class="screenshot">
