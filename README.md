@@ -3,11 +3,24 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+.screenshot {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+    }
+.screenshot img {
+      width: 45%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+  </style>
 </head>
 <body>
   <header>
     <h1>Employee Management System</h1>
-    <img src="An_illustrative_image_of_an_Employee_Management_Sy.png" alt="Employee Management System Interface">
   </header>
   <main>
     <section>
@@ -51,41 +64,48 @@
         </li>
       </ol>
     </section>
-      <section>
+    <section>
       <h2>Screenshots</h2>
-      <div class="screenshot-section">
-        <div class="screenshot">
-          <img src="icons/splash.png" alt="Splash Screen">
-          <p>Splash Screen</p>
-        </div>
-        <div class="screenshot">
-          <img src="login.png" alt="Login Screen">
-          <p>Login Screen</p>
-        </div>
-        <div class="screenshot">
-          <img src="home.png" alt="Home Screen">
-          <p>Home Screen</p>
-        </div>
-        <div class="screenshot">
-          <img src="addEmployee.png" alt="Add Employee Screen">
-          <p>Add Employee</p>
-        </div>
-        <div class="screenshot">
-          <img src="viewEmployee.png" alt="View Employee Screen">
-          <p>View Employee</p>
-        </div>
-        <div class="screenshot">
-          <img src="updateEmployee.png" alt="Update Employee Screen">
-          <p>Update Employee</p>
-        </div>
-        <div class="screenshot">
-          <img src="removeEmployee.png" alt="Remove Employee Screen">
-          <p>Remove Employee</p>
-        </div>
+      <div class="screenshot">
+        <img style=" width: 75%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/splash.png" alt="Splash Screen">
+        <img style=" width: 75%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/login.png" alt="Login Screen">
+        <img style=" width: 75%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/home.png" alt="Home Screen">
+        <img style=" width: 75%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/addEmployee.png" alt="Add Employee Screen">
+        <img style=" width: 75%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/viewEmployee.png" alt="View Employee Screen">
+        <img style=" width: 75%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/updateEmoloyee.png" alt="Update Employee Screen">
+        <img style=" width: 75%;
+      height: auto;
+      border-radius: 8px;
+      margin: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/removeEmployee.png" alt="Remove Employee Screen">
       </div>
     </section>
 
-
+    
    <section>
       <h2>Future Enhancements</h2>
       <ul>
