@@ -3,15 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Employee Management System</title>
-  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
     <h1>Employee Management System</h1>
     <img src="An_illustrative_image_of_an_Employee_Management_Sy.png" alt="Employee Management System Interface">
   </header>
-
   <main>
     <section>
       <h2>Overview</h2>
@@ -20,7 +17,7 @@
       </p>
     </section>
 
-    <section>
+  <section>
       <h2>Features</h2>
       <ul>
         <li><strong>Add Employee:</strong> Easily add new employee details, including name, ID, department, and role.</li>
@@ -30,16 +27,17 @@
       </ul>
     </section>
 
-    <section>
+  <section>
       <h2>Technologies Used</h2>
       <ul>
         <li><strong>Java:</strong> Core application logic.</li>
+         <li><strong>MySQL:</strong> Database for persistent storage of employee records.</li>
         <li><strong>File Handling/Database Integration:</strong> Persistent data storage options (text files or SQLite).</li>
         <li><strong>CLI/GUI:</strong> Command-line interface or simple graphical user interface using Java Swing.</li>
       </ul>
     </section>
 
-    <section>
+  <section>
       <h2>How to Run</h2>
       <ol>
         <li>Clone this repository:
@@ -53,8 +51,42 @@
         </li>
       </ol>
     </section>
+      <section>
+      <h2>Screenshots</h2>
+      <div class="screenshot-section">
+        <div class="screenshot">
+          <img src="splash.png" alt="Splash Screen">
+          <p>Splash Screen</p>
+        </div>
+        <div class="screenshot">
+          <img src="login.png" alt="Login Screen">
+          <p>Login Screen</p>
+        </div>
+        <div class="screenshot">
+          <img src="home.png" alt="Home Screen">
+          <p>Home Screen</p>
+        </div>
+        <div class="screenshot">
+          <img src="addEmployee.png" alt="Add Employee Screen">
+          <p>Add Employee</p>
+        </div>
+        <div class="screenshot">
+          <img src="viewEmployee.png" alt="View Employee Screen">
+          <p>View Employee</p>
+        </div>
+        <div class="screenshot">
+          <img src="updateEmployee.png" alt="Update Employee Screen">
+          <p>Update Employee</p>
+        </div>
+        <div class="screenshot">
+          <img src="removeEmployee.png" alt="Remove Employee Screen">
+          <p>Remove Employee</p>
+        </div>
+      </div>
+    </section>
 
-    <section>
+
+   <section>
       <h2>Future Enhancements</h2>
       <ul>
         <li>Advanced search and filters for better navigation of employee records.</li>
@@ -64,22 +96,20 @@
       </ul>
     </section>
 
-    <section>
+   <section>
       <h2>Contributing</h2>
       <p>
         Contributions are welcome! Please fork the repository and submit a pull request with your enhancements. Ensure code quality and add comments for clarity.
       </p>
     </section>
 
-    <section>
+  <section>
       <h2>License</h2>
-      <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-    </section>
+  </section>
   </main>
 
   <footer>
-    <p>© 2024 Employee Management System Project</p>
+    <p>© 2024 Employee Management System Project by Shubham Rawat</p>
   </footer>
 </body>
 </html>
-
