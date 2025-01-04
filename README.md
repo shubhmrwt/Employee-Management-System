@@ -57,37 +57,37 @@
       height: auto;
       border-radius: 8px;
       margin: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/splash.png" alt="Splash Screen">
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/Screenshots/splash.png" alt="Splash Screen">
         <img style=" width: 75%;
       height: auto;
       border-radius: 8px;
       margin: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/login.png" alt="Login Screen">
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/Screenshots/login.png" alt="Login Screen">
         <img style=" width: 75%;
       height: auto;
       border-radius: 8px;
       margin: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/home.png" alt="Home Screen">
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/Screenshots/home.png" alt="Home Screen">
         <img style=" width: 75%;
       height: auto;
       border-radius: 8px;
       margin: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/addEmployee.png" alt="Add Employee Screen">
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/Screenshots/addEmployee.png" alt="Add Employee Screen">
         <img style=" width: 75%;
       height: auto;
       border-radius: 8px;
       margin: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/viewEmployee.png" alt="View Employee Screen">
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/Screenshots/viewEmployee.png" alt="View Employee Screen">
         <img style=" width: 75%;
       height: auto;
       border-radius: 8px;
       margin: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/updateEmoloyee.png" alt="Update Employee Screen">
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/Screenshots/updateEmoloyee.png" alt="Update Employee Screen">
         <img style=" width: 75%;
       height: auto;
       border-radius: 8px;
       margin: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/icons/removeEmployee.png" alt="Remove Employee Screen">
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" src="src/Screenshots/removeEmployee.png" alt="Remove Employee Screen">
       </div>
     </section>
 
@@ -115,7 +115,7 @@
   </main>
 
   <footer>
-    <p>© 2024 Employee Management System Project by Shubham Rawat</p>
+    <p>© 2024 Employee Management System Project by Shubham Rawat &hearts;</p>
   </footer>
 </body>
 </html>
